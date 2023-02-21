@@ -1,7 +1,7 @@
 # ML202302
 - 教科書[一行指令學 Python：用機器學習掌握人工智慧 (附範例光碟)](https://www.tenlong.com.tw/products/9789865034948?list_name=srh)
 - [上課內容與教學錄影](./上課內容與教學錄影.md)
-- [高中職生資安研習營](https://www.facebook.com/people/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F/100065584200879/)
+- [高中職生資安研習營記得去上 3.5 python課程](https://www.facebook.com/people/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F/100065584200879/)
 
 ## 本學期計分
 - 期中考(30%):Python + numpy pandas matplotlib
