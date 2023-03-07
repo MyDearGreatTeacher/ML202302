@@ -1,0 +1,1 @@
+model_pl.predict([[3,3]])

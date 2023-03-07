@@ -1,0 +1,1 @@
+model_2.intercept_, model_2.coef_

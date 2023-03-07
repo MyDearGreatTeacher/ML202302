@@ -1,0 +1,1 @@
+df.plot(kind='scatter', x='RM', y='target', alpha=0.5, figsize=(8,4));

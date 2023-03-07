@@ -1,0 +1,1 @@
+print(boston['feature_names'])

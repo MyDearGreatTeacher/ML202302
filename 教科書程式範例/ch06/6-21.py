@@ -1,0 +1,1 @@
+pd.DataFrame(zip(y_test, y_pred), columns=['實際','預測']).head()

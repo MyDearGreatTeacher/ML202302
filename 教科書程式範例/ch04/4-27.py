@@ -1,0 +1,1 @@
+model.intercept_+ model.coef_*6

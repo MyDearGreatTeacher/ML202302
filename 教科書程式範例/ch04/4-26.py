@@ -1,0 +1,1 @@
+model.predict([[6]])

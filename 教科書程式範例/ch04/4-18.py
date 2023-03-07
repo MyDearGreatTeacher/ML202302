@@ -1,0 +1,1 @@
+print(model.intercept_, model.coef_)

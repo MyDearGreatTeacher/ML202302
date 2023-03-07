@@ -1,0 +1,1 @@
+print('\n'.join(iris['DESCR'].split('\n')[:18]))

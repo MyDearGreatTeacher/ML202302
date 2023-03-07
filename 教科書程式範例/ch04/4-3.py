@@ -1,0 +1,1 @@
+print('\n'.join(boston['DESCR'].split('\n')[:26]))
