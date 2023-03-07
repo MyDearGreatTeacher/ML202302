@@ -1,0 +1,1 @@
+pd.Series(scores).sort_values(ascending=False)
