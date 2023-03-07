@@ -1,0 +1,1 @@
+df.isnull().sum()

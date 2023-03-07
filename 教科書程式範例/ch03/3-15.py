@@ -1,0 +1,1 @@
+pd.DataFrame(X_cat_impute_oh, columns=oh.get_feature_names(['size','color']))

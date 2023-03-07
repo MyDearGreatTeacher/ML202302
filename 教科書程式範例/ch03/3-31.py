@@ -1,0 +1,2 @@
+# 檢視管道器裡的結果也沒有出現standardscaler了
+num_pl.named_steps

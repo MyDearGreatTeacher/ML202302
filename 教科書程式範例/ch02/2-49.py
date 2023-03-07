@@ -1,0 +1,1 @@
+df.apply(max, axis=1)

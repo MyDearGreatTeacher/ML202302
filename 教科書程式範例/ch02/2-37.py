@@ -1,0 +1,1 @@
+df.loc[['Jimmy','Simon']][['English','History']]

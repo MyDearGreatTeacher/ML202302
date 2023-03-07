@@ -1,0 +1,1 @@
+pd.notnull(np.NaN)

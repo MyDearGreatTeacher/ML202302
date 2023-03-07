@@ -1,0 +1,1 @@
+np_a2.ravel().shape
