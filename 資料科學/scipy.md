@@ -3,6 +3,7 @@
 - [SciPy documentation](https://docs.scipy.org/doc/scipy/)
 - 超爛[SciPy Tutorial - W3Schools](https://www.w3schools.com/python/scipy/index.php)
 - [SciPy Tutorial (2022): For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=jmX4FOUEfgU)
+- [SciPy Tutorial](https://www.tutorialspoint.com/scipy/index.htm)
 
 ## scipy範例學習
 - 確認Google Colab已安裝 == > from scipy import *
