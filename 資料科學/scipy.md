@@ -54,7 +54,6 @@ print(i)
 ## SciPy:線性代數之解聯立方程式
 - linear algebra
 
-$$\begin{bmatrix} x\\ y\\ z \end{bmatrix} = \begin{bmatrix} 1 & 3 & 5\\ 2 & 5 & 1\\ 2 & 3 & 8 \end{bmatrix}^{-1} \begin{bmatrix} 10\\ 8\\ 3 \end{bmatrix} = \frac{1}{25} \begin{bmatrix} -232\\ 129\\ 19 \end{bmatrix} = \begin{bmatrix} -9.28\\ 5.16\\ 0.76 \end{bmatrix}.$$
 
 ```python
 #importing the scipy and numpy packages
@@ -70,14 +69,23 @@ x = linalg.solve(a, b)
 
 #printing the result array
 print(x)
-
 ```
 
 
-##
+## SciPy:線性代數之Finding a Determinant
 ```python
+#importing the scipy and numpy packages
+from scipy import linalg
+import numpy as np
 
+#Declaring the numpy array
+A = np.array([[1,2],[3,4]])
 
+#Passing the values to the det function
+x = linalg.det(A)
+
+#printing the result
+print(x)
 ```
 
 
