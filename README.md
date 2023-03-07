@@ -25,6 +25,7 @@
 - [資料科學的建模基礎 江崎貴裕 ; 王心薇 譯](https://www.tenlong.com.tw/products/9789863126621?list_name=srh)
 
 ## Python
+- [Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/SF2023A3)
 - [Python](https://github.com/MyFirstSecurity2020/20230211)
 - [The Python Tutorial官方網址](https://docs.python.org/3/tutorial/)
 - [Python Tutorial](https://www.w3schools.com/python/)
