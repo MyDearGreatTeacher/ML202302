@@ -17,6 +17,7 @@ print(scipy.__version__)
 ```
 
 
+## Image Processing
 
 
 ## scipy.integrate
