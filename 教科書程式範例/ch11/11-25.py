@@ -1,0 +1,1 @@
+df_cv_top10.plot(kind='bar',ylim=(0.9, 1), alpha=0.6, rot=60)

@@ -1,0 +1,1 @@
+df['salary'].value_counts()

@@ -1,0 +1,1 @@
+df['sales'].value_counts()

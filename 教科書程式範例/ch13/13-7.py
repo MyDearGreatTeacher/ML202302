@@ -1,0 +1,1 @@
+sns.pairplot(df, hue='left', diag_kws={'bw':0.1});
