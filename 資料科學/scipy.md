@@ -20,6 +20,7 @@ print(scipy.__version__)
 
 
 ## scipy.integrate
+- https://www.tutorialspoint.com/scipy/scipy_integrate.htm
 ```python
 import scipy.integrate
 from numpy import exp
