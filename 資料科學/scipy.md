@@ -110,9 +110,21 @@ print(v)
 ```
 
 
-##
+## [Singular Value Decomposition(SVD)]()
+- https://www.tutorialspoint.com/scipy/scipy_linalg.htm
 ```python
+#importing the scipy and numpy packages
+from scipy import linalg
+import numpy as np
 
+#Declaring the numpy array
+a = np.random.randn(3, 2) + 1.j*np.random.randn(3, 2)
+
+#Passing the values to the eig function
+U, s, Vh = linalg.svd(a)
+
+# printing the result
+print(U, Vh, s)
 
 ```
 
