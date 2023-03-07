@@ -19,14 +19,22 @@ print(scipy.__version__)
 
 
 
-##
+## scipy.integrate
 ```python
+import scipy.integrate
+from numpy import exp
 
+f= lambda x:exp(-x**2)
+i = scipy.integrate.quad(f, 0, 1)
 
+print(i)
 ```
 
 
 ##
+
+$$\int_{0}^{1/2} dy \int_{0}^{\sqrt{1-4y^2}} 16xy \:dx$$
+
 ```python
 
 
