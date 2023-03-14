@@ -8,7 +8,7 @@ A Machine Learning Refresher
 Getting Started with Ensemble Learning
 
 ## Section 2: Non-Generative Methods
-- Voting
+- [Voting](./Voting.md)
 - Stacking
 
 ## Section 3: Generative Methods
