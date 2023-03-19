@@ -1,4 +1,4 @@
-# [手把守時做](https://github.com/zotroneneis/machine_learning_basics)
+# [Python硬派實作](https://github.com/zotroneneis/machine_learning_basics)
 
 ### [Scikit-learn 詳解與企業應用：機器學習最佳入門與實戰](https://www.tenlong.com.tw/products/9786267273210?list_name=srh)
 - [GITHUB](https://github.com/mc6666/Scikit_learn_Book)
