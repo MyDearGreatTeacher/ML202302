@@ -7,6 +7,10 @@
 - 生成式演算法:適應提升（Adaptive Boosting, AdaBoost） [AdaBoost](./AdaBoost.md)
 - 生成式演算法:梯度提升（Gradient Boosting） [Gradient Boosting](./GradientBoosting.md)
 - 生成式演算法:[隨機森林（Random Forest）](./RF.md)
+- Ensemble Learning with k-means(./EnsembleLearning_k-means.md)
+
+
+
 
 # 教科書
 - [Hands-On Ensemble Learning with Python(2019)](https://www.packtpub.com/product/hands-on-ensemble-learning-with-python/9781789612851?_ga=2.108812482.1376347119.1678751466-1948969248.1670100666) [GITHUB](https://github.com/packtpublishing/hands-on-ensemble-learning-with-python)
