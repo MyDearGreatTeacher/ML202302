@@ -1,5 +1,5 @@
-
-## Ch00 機器學習介紹
+## 教科書[一行指令學 Python：用機器學習掌握人工智慧 (附範例光碟)](https://www.tenlong.com.tw/products/9789865034948?list_name=srh)
+-  Ch00 機器學習介紹
 - 第一部分 Python快速複習
   - Ch01 Python基本功能介紹
   - Ch02 Pandas DataFrame介紹
