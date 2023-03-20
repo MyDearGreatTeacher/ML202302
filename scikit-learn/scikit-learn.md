@@ -1,0 +1,87 @@
+# [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/#/)
+# [User Guide](https://scikit-learn.org/stable/user_guide.html)
+# [API Reference](https://scikit-learn.org/stable/modules/classes.html)
+- sklearn.base: Base classes and utility functions
+- sklearn.calibration: Probability Calibration
+- 👍sklearn.cluster: 支援的Clustering演算法
+- sklearn.compose: Composite Estimators
+- sklearn.covariance: Covariance Estimators
+- sklearn.cross_decomposition: Cross decomposition
+- 👍sklearn.datasets: 各種示範資料集(Datasets)
+  - Loaders | Samples generator 
+- sklearn.decomposition: Matrix Decomposition
+- sklearn.discriminant_analysis: Discriminant Analysis 判別分析
+- sklearn.dummy: Dummy estimators
+- 👍👍sklearn.ensemble: Ensemble Methods 
+- sklearn.exceptions: Exceptions and warnings
+- sklearn.experimental: Experimental
+- 👍sklearn.feature_extraction: Feature Extraction
+- sklearn.feature_selection: Feature Selection
+- sklearn.gaussian_process: Gaussian Processes
+- 👍sklearn.impute: Impute ==> Transformers for missing value imputation
+- sklearn.inspection: Inspection
+- sklearn.isotonic: Isotonic regression
+- sklearn.kernel_approximation: Kernel Approximation
+- sklearn.kernel_ridge: Kernel Ridge Regression
+- 👍👍sklearn.linear_model: Linear Models
+- sklearn.manifold: Manifold Learning
+- 👍👍sklearn.metrics: 各式各樣的評估指標Metrics
+- sklearn.mixture: Gaussian Mixture Models
+- 👍👍sklearn.model_selection: Model Selection
+- sklearn.multiclass: Multiclass classification
+- sklearn.multioutput: Multioutput regression and classification
+- sklearn.naive_bayes: Naive Bayes
+- 👍👍sklearn.neighbors: Nearest Neighbors
+- sklearn.neural_network: Neural network models
+- sklearn.pipeline: Pipeline
+- 👍👍sklearn.preprocessing: Preprocessing and Normalization
+- sklearn.random_projection: Random projection
+- sklearn.semi_supervised: Semi-Supervised Learning
+  - [User guide](https://scikit-learn.org/stable/modules/semi_supervised.html#semi-supervised) 
+- 👍sklearn.svm: Support Vector Machines
+- 👍sklearn.tree: Decision Trees
+- 👍sklearn.utils: Utilities
+
+# [Examples官方範例](https://scikit-learn.org/stable/auto_examples/index.html)
+- Release Highlights
+- Biclustering
+- Calibration
+- 👍👍Classification
+  - 👍[Recognizing hand-written digits:使用SVM 手寫數字辨識](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#sphx-glr-auto-examples-classification-plot-digits-classification-py)
+  - 👍👍[Classifier comparison:A comparison of a several classifiers in scikit-learn on synthetic datasets.](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py) 
+- Clustering
+- Covariance estimation
+- Cross decomposition
+- Dataset examples
+- Decision Trees
+  - 👍[Understanding the decision tree structure](https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#sphx-glr-auto-examples-tree-plot-unveil-tree-structure-py) 
+  - [Plot the decision surface of decision trees trained on the iris dataset](https://scikit-learn.org/stable/auto_examples/tree/plot_iris_dtc.html#sphx-glr-auto-examples-tree-plot-iris-dtc-py)
+- 👍Decomposition
+  - [Principal components analysis (PCA)](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_3d.html#sphx-glr-auto-examples-decomposition-plot-pca-3d-py) 
+  - [PCA example with Iris Data-set](https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html#sphx-glr-auto-examples-decomposition-plot-pca-iris-py)
+  - [Kernel PCA](https://scikit-learn.org/stable/auto_examples/decomposition/plot_kernel_pca.html#sphx-glr-auto-examples-decomposition-plot-kernel-pca-py)
+  - [Incremental principal component analysis (IPCA)](https://scikit-learn.org/stable/auto_examples/decomposition/plot_incremental_pca.html#sphx-glr-auto-examples-decomposition-plot-incremental-pca-py)
+- Ensemble methods
+- Examples based on real world datasets
+- Feature Selection
+- Gaussian Mixture Models
+- Gaussian Process for Machine Learning
+- Generalized Linear Models
+- Inspection
+- Kernel Approximation
+- Manifold learning
+- Miscellaneous
+- Missing Value Imputation
+- Model Selection
+- Multioutput methods
+- Nearest Neighbors
+- Neural Networks
+- Pipelines and composite estimators
+- Preprocessing
+- Semi Supervised Classification
+- Support Vector Machines
+- Tutorial exercises
+- Working with text documents
+
+
+
