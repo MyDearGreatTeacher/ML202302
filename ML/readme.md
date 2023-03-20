@@ -66,3 +66,5 @@
    - 智慧金融之信用卡詐欺偵測[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) 
    - 人力資源管理:員工流失率預測模型[Human Resources Analytics: A Descriptive Analysis](https://www.kaggle.com/code/colara/human-resources-analytics-a-descriptive-analysis)
    - 客戶流失率預測模型
+   - [titanic_train@kaggle](https://www.kaggle.com/datasets/tedllh/titanic-train?select=titanic_train.csv)
+
