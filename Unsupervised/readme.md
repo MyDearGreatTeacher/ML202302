@@ -1,0 +1,21 @@
+# 非監督學習 Unsupervised Learning
+- Unsupervised Learning [scikit-learn支援的Unsupervised learning演算法](./Unsupervised.md)
+- clustering
+  - [k-mean Unsupervised Learning](./K-means.md)
+  - other clustering algorithm 
+    - [DBSCAN](./DBSCAN.md)
+    - [affinity propagation clustering algorithm](./AffinityPropagationclustering.md)
+    - [叢集演算法大車拚](ClusteringALL.md)
+  - [Ensemble Learning with k-means](./EnsembleLearning_k-means.md)
+- Dimension reduction
+  - Linear dimensionality reduction  ==> [PCA](./PCA.md)
+  - NON-Linear dimensionality reduction(Manifold Laerning) ==> [t-Distributed Stochastic Neighbor Embedding (t-SNE) 2008](./tsne.md)
+- Anomaly DETECTION
+  - [區域性異常因子(Local Outlier Factor)](./lof.md)
+  - [IsolationForest 2012](./IsolationForest.md)
+  - [Extended Isolation Forest (EIF) 2018](./EIF.md) [GITHUB](https://github.com/sahandha/eif)
+  - 其他主題
+    - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod)  pip install pyod
+    - [ODDS (Outlier Detection Datasets)](http://odds.cs.stonybrook.edu) 
+    - [ADBench: Anomaly Detection Benchmark(2022)](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-neurips-adbench.pdf)
+    - [Handbook of Anomaly Detection: With Python Outlier Detection — (1) Introduction](https://medium.com/dataman-in-ai/handbook-of-anomaly-detection-with-python-outlier-detection-1-introduction-c8f30f71961c)
