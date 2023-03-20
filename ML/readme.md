@@ -33,7 +33,8 @@
 - Lasso regression
 - Nearest Neighbors Regression 
 
-## 分類Classification ==> 二元分類(有病|沒病,正常|異常) VS 多元分類(不同等級A|B|C|D|E|...的水果)
+## 分類Classification 
+- 二元分類(有病|沒病,正常|異常) VS 多元分類(不同等級A|B|C|D|E|...的水果)
 - Nearest Neighbors
   - 👍[A Simple Introduction to K-Nearest Neighbors Algorithm](https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e)
   - [K-Nearest Neighbor(KNN) Algorithm for Machine Learning](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
