@@ -1,0 +1,16 @@
+# 半監督學習(semi-supervised Learning)
+- [半監督學習semi-supervised Learning](./Semi-supervised_learning.md)
+  - [semi-supervised Learning | scikit-learn](https://scikit-learn.org/stable/modules/semi_supervised.html)
+  - [Semi-Supervised Learning, Explained with Examples](https://www.altexsoft.com/blog/semi-supervised-learning/)
+  - [[free online book] Semi Supervised Learning](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
+- Self Training
+- LabelPropagation models
+  - scikit-learn provides two label propagation models: LabelPropagation and LabelSpreading. 
+- co-training
+- Deep Semi-Supervised Learning Algorithms
+  - consistency training
+  - [Unsupervised Data Augmentation for Consistency Training UDA(2019)](https://arxiv.org/abs/1904.12848)  [GITHUB](https://github.com/google-research/uda)
+    - [論文閱讀筆記: Unsupervised Data Augmentation for Consistency Training (2019)](https://good74152.medium.com/%E8%AB%96%E6%96%87%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98-unsupervised-data-augmentation-for-consistency-training-2019-a72cc30b5f8c) 
+    - [整理對於UDA與MixMatch的一些想法](https://good74152.medium.com/%E6%95%B4%E7%90%86%E5%B0%8D%E6%96%BCuda%E8%88%87mixmatch%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95-cf31721f4120)
+  - Google [MixMatch: A Holistic Approach to Semi-Supervised Learning(2019)](https://arxiv.org/abs/1905.02249) [GITHUB](https://github.com/google-research/mixmatch)
+  - [GANN: Graph Alignment Neural Network for Semi-Supervised Learning(2023)]()
