@@ -26,7 +26,7 @@
       - [karthickai/Linear-Regression](https://github.com/karthickai/Linear-Regression) 
     - 專題
       - 房價預測問題[Boston House Prices](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices) 
-      - 薪水預測[KAGGLE: Salary data - Simple linear regression](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression) 
+      - 薪水預測問題[KAGGLE: Salary data - Simple linear regression](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression) 
 - Multiple Linear Regression線性回歸
 - Polynomial Regression 使用numpy方法 [Polynomial Regression](https://www.w3schools.com/python/python_ml_polynomial_regression.asp)
 - Ridge regression 
