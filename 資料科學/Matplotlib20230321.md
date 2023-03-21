@@ -50,8 +50,9 @@ ax.scatter('a', 'b', c='c', s='d', data=data)
 ax.set_xlabel('entry a')
 ax.set_ylabel('entry b')
 ```
-- [受約束的佈局輔助線](https://www.osgeo.cn/matplotlib/tutorials/intermediate/constrainedlayout_guide.html)
-- [Constrained Layout Guide](https://matplotlib.org/stable/tutorials/intermediate/constrainedlayout_guide.html)
+- layout='constrained'
+  - [受約束的佈局輔助線](https://www.osgeo.cn/matplotlib/tutorials/intermediate/constrainedlayout_guide.html)
+  - [Constrained Layout Guide](https://matplotlib.org/stable/tutorials/intermediate/constrainedlayout_guide.html)
 
 
 ##
