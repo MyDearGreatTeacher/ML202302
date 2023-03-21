@@ -7,7 +7,7 @@
 - matplotlib功能展示
 - 單一圖表的顯示技術[以折現圖加以說明](./2_1_Matplotlib.md)
   - 線寬 linewidth(lw)
-  - 線條樣式 linestyle(ls)
+  - 線條樣式 linestyle(ls) [linestyle](https://matplotlib.org/stable/gallery/lines_bars_and_markers/linestyles.html) [中文說明](https://blog.csdn.net/Strive_For_Future/article/details/118755312)
   - 顏色配置 color
   - 節點的樣式 marker
   - 標題 | x 軸 | y 軸
