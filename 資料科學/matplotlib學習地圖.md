@@ -5,7 +5,7 @@
 - matplotlib畫圖架構
 - matplotlib套件
 - matplotlib功能展示
-- 單一圖表的顯示技術[以折現圖加以說明]
+- 單一圖表的顯示技術[以折現圖加以說明](./2_1_Matplotlib.md)
   - 線寬 linewidth(lw)
   - 線條樣式 linestyle(ls)
   - 顏色配置 color
