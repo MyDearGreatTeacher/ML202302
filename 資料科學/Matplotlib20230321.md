@@ -60,6 +60,7 @@ ax.set_ylabel('entry b')
   - [matplotlib.pyplot.scatter](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html) 
 
 ## 統計圖之error bar(誤差棒|誤差線|誤差條)
+- [matplotlib.pyplot.errorbar](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.errorbar.html)
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
