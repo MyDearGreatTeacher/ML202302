@@ -20,7 +20,7 @@ ax.plot([1, 2, 3, 4], [1, 4, 2, 3])  #
     - ax Axes or array of Axes
 
 ## MAtplotlib
-
+![matplotlib.png](./matplotlib.png)
 
 ##
 ```python
