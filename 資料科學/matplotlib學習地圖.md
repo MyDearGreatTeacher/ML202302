@@ -11,18 +11,18 @@
   - 顏色配置 color
   - 節點的樣式 marker
   - 標題 | x 軸 | y 軸
-  - 數學公式
+  - 途中的文字與數學公式顯示技術 [Text in Matplotlib Plots]()
   - legend() 
-- 各種統計圖表的顯示技術
+- 各種統計圖表的顯示技術 [Statistics plots](https://matplotlib.org/stable/tutorials/text/text_intro.html)
   - plot() 折線圖 == 了解資料趨勢
   - scatter() 散布圖 == 了解資料相關度
   - bar() 柱狀圖
   - barh() 條形圖
-  - hist()直方圖
-  - pie()圓餅圖 
+  - hist()直方圖 [hist(x)](https://matplotlib.org/stable/plot_types/stats/hist_plot.html)
+  - pie()圓餅圖 [pie(x)](https://matplotlib.org/stable/plot_types/stats/pie.html)
   - polar()極線圖 
   - stem()——用於繪製棉棒圖 
-  - boxplot()箱型圖
-  - errorbar() 誤差棒圖 
+  - boxplot()箱型圖 [boxplot(X)](https://matplotlib.org/stable/plot_types/stats/boxplot_plot.html)
+  - errorbar() 誤差棒圖  [errorbar(x, y, yerr, xerr)](https://matplotlib.org/stable/plot_types/stats/errorbar_plot.html)
 - 多表並陳的技術
 - Interactive Visualization(互動式顯示)技術 
