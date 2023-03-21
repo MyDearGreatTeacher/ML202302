@@ -20,6 +20,9 @@ ax.plot([1, 2, 3, 4], [1, 4, 2, 3])  #
     - fig Figure
     - ax Axes or array of Axes
 
+－統計圖之折線圖　[matplotlib.pyplot.plot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+  -
+
 ## MAtplotlib
 ![matplotlib.png](./matplotlib.png)
 
@@ -53,7 +56,8 @@ ax.set_ylabel('entry b')
 - layout='constrained'
   - [受約束的佈局輔助線](https://www.osgeo.cn/matplotlib/tutorials/intermediate/constrainedlayout_guide.html)
   - [Constrained Layout Guide](https://matplotlib.org/stable/tutorials/intermediate/constrainedlayout_guide.html)
-
+- 統計圖之scatter plot [散布圖](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%B8%83%E5%9C%96)
+  - [matplotlib.pyplot.scatter](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html) 
 
 ##
 ```python
