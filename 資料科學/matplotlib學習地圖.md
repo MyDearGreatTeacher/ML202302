@@ -1,9 +1,21 @@
 # matplotlib
+- 資料視覺化(Data Visualization) [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
+- 資料視覺化常用工具
 - matplotlib簡介與學習資源
 - matplotlib畫圖架構
 - matplotlib套件
 - matplotlib功能展示
 - 單一圖表的顯示技術
 - 各種統計圖表的顯示技術
+  - plot() 折線圖 == 了解資料趨勢
+  - scatter() 散布圖 == 了解資料相關度
+  - bar() 柱狀圖
+  - barh() 條形圖
+  - hist()直方圖
+  - pie()圓餅圖 
+  - polar()極線圖 
+  - stem()——用於繪製棉棒圖 
+  - boxplot()箱型圖
+  - errorbar() 誤差棒圖 
 - 多表並陳的技術
 - 互動式顯示技術 
