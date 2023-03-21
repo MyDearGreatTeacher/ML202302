@@ -39,7 +39,7 @@ fig, axs = plt.subplot_mosaic([['left', 'right-top'],['left', 'right_bottom']])
 ```
 
 
-##
+## 統計圖之scatter plot(散布圖)
 ```python
 np.random.seed(19680801)  # seed the random number generator.
 data = {'a': np.arange(50),
@@ -59,12 +59,34 @@ ax.set_ylabel('entry b')
 - 統計圖之scatter plot [散布圖](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%B8%83%E5%9C%96)
   - [matplotlib.pyplot.scatter](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html) 
 
-##
+## 統計圖之error bar(誤差棒|誤差線|誤差條)
 ```python
+import numpy as np
+import matplotlib.pyplot as plt
 
+fig = plt.figure()
 
+x = np.arange(10)
+y = 2.5 * np.sin(x / 20 * np.pi)
+
+yerr = np.linspace(0.05, 0.2, 10)
+
+plt.errorbar(x, y + 3, yerr=yerr, label='both limits (default)')
+
+plt.errorbar(x, y + 2, yerr=yerr, uplims=True, label='uplims=True')
+
+plt.errorbar(x, y + 1, yerr=yerr, uplims=True, lolims=True,
+             label='uplims=True, lolims=True')
+
+upperlimits = [True, False] * 5
+lowerlimits = [False, True] * 5
+plt.errorbar(x, y, yerr=yerr, uplims=upperlimits, lolims=lowerlimits,
+             label='subsets of uplims and lolims')
+
+plt.legend(loc='lower right')
 ```
-
+- [matplotlib.pyplot.legend](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html)
+  - loc ==> 'upper left', 'upper right', 'lower left', 'lower right' 
 
 ##
 ```python
