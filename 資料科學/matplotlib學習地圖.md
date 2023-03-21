@@ -1,0 +1,9 @@
+# matplotlib
+- matplotlib簡介與學習資源
+- matplotlib畫圖架構
+- matplotlib套件
+- matplotlib功能展示
+- 單一圖表的顯示技術
+- 各種統計圖表的顯示技術
+- 多表並陳的技術
+- 互動式顯示技術 
