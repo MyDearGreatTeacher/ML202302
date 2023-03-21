@@ -1,7 +1,9 @@
 # Matplotlib: Visualization with Python
 - [matplotlib](https://matplotlib.org/)
 - [Documentation](https://matplotlib.org/stable/index.html)
-- [Tutorials]()
+- [Users guide](https://matplotlib.org/stable/users/index.html)
+- [API Reference](https://matplotlib.org/stable/api/index.html)
+- [Tutorials](https://matplotlib.org/stable/tutorials/index.html)
 - [Example gallery](https://matplotlib.org/stable/gallery/index.html)
 
 ## [Quick start guide](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
