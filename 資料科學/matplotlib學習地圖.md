@@ -5,7 +5,14 @@
 - matplotlib畫圖架構
 - matplotlib套件
 - matplotlib功能展示
-- 單一圖表的顯示技術
+- 單一圖表的顯示技術[以折現圖加以說明]
+  - 線寬 linewidth(lw)
+  - 線條樣式 linestyle(ls)
+  - 顏色配置 color
+  - 節點的樣式 marker
+  - 標題 | x 軸 | y 軸
+  - 數學公式
+  - legend() 
 - 各種統計圖表的顯示技術
   - plot() 折線圖 == 了解資料趨勢
   - scatter() 散布圖 == 了解資料相關度
@@ -18,4 +25,4 @@
   - boxplot()箱型圖
   - errorbar() 誤差棒圖 
 - 多表並陳的技術
-- 互動式顯示技術 
+- Interactive Visualization(互動式顯示)技術 
