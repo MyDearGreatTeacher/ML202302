@@ -1,9 +1,11 @@
 # 期中考(30%):Python + numpy pandas matplotlib
+- [期中考報告格式](./Midterm.md)
 
-# 期末考(30%):Machine Learning學習報告(>= 200+ pages) {繳交:PPT + OBS 錄影}
-  - 迴歸演算法分析 
-  - 分類演算法分析 
-  - 非監督學習演算法分析 
+# 期末考(30%):Machine Learning學習報告
+- (>= 200+ pages) {繳交:PPT + OBS 錄影}
+- 迴歸演算法分析 
+- 分類演算法分析 
+- 非監督學習演算法分析 
 
 # 期中平時(20%):資料科學實戰分析 {繳交:PPT + OBS 錄影}
 
