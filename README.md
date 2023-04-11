@@ -1,4 +1,4 @@
-#上課日誌
+# 上課日誌
 - 4.11 公布期中考事項 請參閱 [期中考網址](https://github.com/MyDearGreatTeacher/ML202302/tree/main/報告範本與成績計算)
 - 上課用的Google Meet 
   - 4.11 https://meet.google.com/ubv-ywfv-pcm
