@@ -8,10 +8,37 @@
 # 2.資料科學底層核心技術NUMPY
 - NUMPY
 - ndarray資料結構與屬性
+  - NUMPY使用的資料結構 ==> N-Dimensional Arrays(ndarray)
+  - ndarray的屬性: 軸(axis)|維度(dimension):ndim/秩rank |形狀(shape):shape|dtype(資料型態:data type)
 - ndarray的各項運算
+  - 基本運算1: 建立各式各樣的ndarray 
+    - 更多說明請參閱 [Array creation routines](https://numpy.org/doc/stable/reference/routines.array-creation.html) 
+  - 基本運算2: ndarray的基本運算:切片 (Slicing) , 搜尋(找出滿足條件的資料),排序,.....
+    - 更多說明請參閱 [Array manipulation routines](https://numpy.org/doc/stable/reference/routines.array-manipulation.html) 
+  - 基本運算3: ndarray的基本數學運算:四則運算,
+    - 更多說明請參閱[Mathematical functions with automatic domain](https://numpy.org/doc/stable/reference/routines.emath.html) 
+  - 基本運算4: 
+  - 特殊運算 ==> 陣列擴張|廣播 (Broadcasting)
+  - Universal function 與向量化運算(Vectorization computation)
+    - 更多說明請參閱 [Universal functions (ufunc)](https://numpy.org/doc/stable/reference/ufuncs.html) 
+  - A矩陣與B矩陣間的運算
 - NUMPY的模組
   - numpy.random
+  - ndarray的基本統計運算==＞直接是在Numpy底下  如[numpy.mean()](https://numpy.org/doc/stable/reference/generated/numpy.mean.html)
+    - [https://numpy.org/doc/stable/reference/routines.statistics.html#](https://numpy.org/doc/stable/reference/routines.statistics.html#) 
+  - numpy.polynomial 多項式運算
+  - numpy.linalg Linear algebra線性代數 [numpy.linalg](https://numpy.org/doc/stable/reference/routines.linalg.html)
+  - numpy.fft工程數學的離散型傅立葉轉換Discrete Fourier Transform[numpy.fft](https://numpy.org/doc/stable/reference/routines.fft.html)
+    - scipy.fft的功能更多  
 - NUMPY的進階主題
+
+
+1.資料型態 
+
+
+2.基本運算
+
+
 # 3.資料視覺化(Data Visualization)
 # matplotlib
 - 資料視覺化(Data Visualization) [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
