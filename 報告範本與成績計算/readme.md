@@ -1,6 +1,6 @@
 # 期中考(30%):Python + numpy pandas matplotlib
 - [期中考報告格式](./Midterm.md)
-- [期中考報告內容](./資料科學)
+- [期中考報告內容](../資料科學)
 
 # 期末考(30%):Machine Learning學習報告
 - (>= 200+ pages) {繳交:PPT + OBS 錄影}
