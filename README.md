@@ -1,9 +1,7 @@
-# 上課日誌
+#上課日誌
 - 4.11 公布期中考事項 請參閱 [期中考網址](https://github.com/MyDearGreatTeacher/ML202302/tree/main/報告範本與成績計算)
 - 上課用的Google Meet 
   - 4.11 https://meet.google.com/ubv-ywfv-pcm
-
-https://meet.google.com/cxs-jmzx-sjs
 
 # ML202302
 - 教科書[一行指令學 Python：用機器學習掌握人工智慧 (附範例光碟)](https://www.tenlong.com.tw/products/9789865034948?list_name=srh)
