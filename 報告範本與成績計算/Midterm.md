@@ -57,4 +57,17 @@
    - 讀寫 JSON 檔案
    - 讀取網頁表格資料 
 - pandas資料清理(Data cleaning)
-- DataFrame的運算1:
+- DataFrame的運算1:Data Aggregation and Group Operations資料匯總和組操作常見運算
+  - 把一個pandas物件（series或DataFrame）按key分解為多個
+  - 計算群組的匯總統計值（group summary statistics），比如計數，平均值，標準差，或使用者自己定義的函數
+  - 應用組內的轉換或其他一些操作，比如標準化，線性回歸，排序，子集選擇
+  - 計算透視表和交叉列表
+  - 進行分位數分析和其他一些統計分析
+- DataFrame的運算2:Combining and Merging Datasets（合併資料集）
+  - join：連接
+  - combine：合併
+  - reshape：整形
+  - merge：歸併
+  - concatenate：串聯
+  - pivot：旋轉
+  - stack：堆疊
