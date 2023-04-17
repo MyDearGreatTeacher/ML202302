@@ -3,6 +3,7 @@
 - 上課用的Google Meet 
   - 4.11 https://meet.google.com/ubv-ywfv-pcm
   - 4.17  https://meet.google.com/zhi-xsrx-sbb
+  - [期中考成績公布](./期中考成績.md)
 
 # ML202302
 - 教科書[一行指令學 Python：用機器學習掌握人工智慧 (附範例光碟)](https://www.tenlong.com.tw/products/9789865034948?list_name=srh)
