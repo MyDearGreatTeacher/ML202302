@@ -11,6 +11,7 @@
 # 期中平時(20%):資料科學實戰分析 {繳交:PPT + OBS 錄影}
 - [經典:Python 資料分析, 2/e](https://www.tenlong.com.tw/products/9789864769254)
   - [GITHUB](https://github.com/wesm/pydata-book) [中譯](https://github.com/LearnXu/pydata-notebook/tree/master/)
+  - [Python for Data Analysis, 3E Open Edition\(https://wesmckinney.com/book/)
 - 報告主題
 - 報告主題1.Pandas進階技術 
   - Pandas資料結構與基本運算
