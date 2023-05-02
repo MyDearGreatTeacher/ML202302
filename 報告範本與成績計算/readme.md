@@ -24,6 +24,7 @@
     - MovieLens 1M資料集分為三個表：評分，使用者資訊，電影資訊
     - 這些資料都是dat檔案格式
     - 可以通過pandas.read_table將各個表分別讀到一個pandas DataFrame物件
+    - [MovieLens 1M Dataset|Kaggle](https://www.kaggle.com/datasets/odedgolden/movielens-1m-dataset/code)
   - 自行挑選下列範例(至少一個,多多益善)
     - USA URL shortening service資料分析專題 [範例程式](https://github.com/LearnXu/pydata-notebook/blob/master/Chapter-14/14.1%20USA.gov%20Data%20from%20Bitly%EF%BC%88USA.gov%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
       - USA.gov Data from Bitly（USA.gov資料集）
