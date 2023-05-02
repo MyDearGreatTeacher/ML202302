@@ -8,7 +8,7 @@
 - 分類演算法分析 
 - 非監督學習演算法分析 
 
-# 期中平時(20%):資料科學實戰分析 {繳交:PPT [簡報範本第二版]() + OBS 錄影}
+# 期中平時(20%):資料科學實戰分析 {繳交:PPT [簡報範本第二版](./A888168_機器學習_期中平時報告_資料分析實戰報告_V2_0502.pptx) + OBS 錄影}
 - [經典:Python 資料分析, 2/e](https://www.tenlong.com.tw/products/9789864769254)
   - [GITHUB](https://github.com/wesm/pydata-book) [中譯](https://github.com/LearnXu/pydata-notebook/tree/master/)
   - [Python for Data Analysis, 3E Open Edition\(https://wesmckinney.com/book/)
