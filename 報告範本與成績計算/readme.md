@@ -8,7 +8,7 @@
 - 分類演算法分析 
 - 非監督學習演算法分析 
 
-# 期中平時(20%):資料科學實戰分析 {繳交:PPT + OBS 錄影}
+# 期中平時(20%):資料科學實戰分析 {繳交:PPT [簡報範本第二版]() + OBS 錄影}
 - [經典:Python 資料分析, 2/e](https://www.tenlong.com.tw/products/9789864769254)
   - [GITHUB](https://github.com/wesm/pydata-book) [中譯](https://github.com/LearnXu/pydata-notebook/tree/master/)
   - [Python for Data Analysis, 3E Open Edition\(https://wesmckinney.com/book/)
@@ -25,6 +25,7 @@
     - 這些資料都是dat檔案格式
     - 可以通過pandas.read_table將各個表分別讀到一個pandas DataFrame物件
     - [MovieLens 1M Dataset|Kaggle](https://www.kaggle.com/datasets/odedgolden/movielens-1m-dataset/code)
+    - [教學示範錄影](https://youtu.be/xf103F7NoFY)
   - 自行挑選下列範例(至少一個,多多益善)
     - USA URL shortening service資料分析專題 [範例程式](https://github.com/LearnXu/pydata-notebook/blob/master/Chapter-14/14.1%20USA.gov%20Data%20from%20Bitly%EF%BC%88USA.gov%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%89.ipynb)
       - USA.gov Data from Bitly（USA.gov資料集）
