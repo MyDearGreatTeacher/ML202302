@@ -15,6 +15,7 @@
 # 教科書
 - [Hands-On Ensemble Learning with Python(2019)](https://www.packtpub.com/product/hands-on-ensemble-learning-with-python/9781789612851?_ga=2.108812482.1376347119.1678751466-1948969248.1670100666) [GITHUB](https://github.com/packtpublishing/hands-on-ensemble-learning-with-python)
 - [Ensemble Machine Learning Cookbook(2019)](https://www.packtpub.com/product/ensemble-machine-learning-cookbook/9781789136609)  [GITHUB](https://github.com/packtpublishing/ensemble-machine-learning-cookbook)
+- [Hands-On Gradient Boosting with XGBoost and scikit-learn(2020)](https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354)   [GITHUB](https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn)
 
 # Topic
 ## Section 1: Introduction and Required Software Tools
