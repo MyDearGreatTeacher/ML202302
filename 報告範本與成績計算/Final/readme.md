@@ -1,7 +1,7 @@
 # 教學影片.
 # 分類演算法
 - Decision tree [教學影片]
-  - 範例 [程式碼](./PhishingDetector_DecisionTree.md)  [教學影片]
+  - 範例 [程式碼](./PhishingDetectorDecisionTree.md)  [教學影片]
 
 # 集群分析 K-means Clustering
 - 觀念說明
