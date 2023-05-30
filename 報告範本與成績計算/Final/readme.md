@@ -10,7 +10,8 @@
   - [Boston house price prediction@kaggle](https://www.kaggle.com/code/shreayan98c/boston-house-price-prediction)
 ## 分類演算法
 - Decision tree [教學影片](https://youtu.be/xY2BHb6-9PM)
-  - 範例 [程式碼](./PhishingDetectorDecisionTree.md)  [教學影片](https://youtu.be/ZWqFjN1wzWQ)
+  - 範例1:使用決策數建立釣魚網站偵測器 [程式碼](./PhishingDetectorDecisionTree.md)  [教學影片](https://youtu.be/ZWqFjN1wzWQ)
+  - 範例2:鐵達尼號資料集的決策樹模型[程式碼](./鐵達尼號資料集的決策樹模型.md)
 - Support veector machine[教學影片]()
   - 範例 鐵達尼號資料集的支持向量機模型 [程式碼](./鐵達尼號資料集的支持向量機模型.md)  [教學影片](https://www.youtube.com/watch?v=fqDdyxKwW6U)
 
