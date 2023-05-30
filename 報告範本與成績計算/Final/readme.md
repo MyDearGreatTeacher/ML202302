@@ -1,4 +1,12 @@
 # 教學影片.
+# 機器學習overview
+- scikit-learn [官方網址](https://scikit-learn.org/stable/)  [YOUYUBE影片20230328](https://youtu.be/OVA9zz-H8nE)
+
+# 機器學習之迴歸演算法實戰 
+  - [線上教材](../ML/regression.md) 
+  - [code](../教科書程式範例/ch04) 
+  - [YOUYUBE影片20230328](https://youtu.be/UIYePSoGHTI)
+  - [Boston house price prediction@kaggle](https://www.kaggle.com/code/shreayan98c/boston-house-price-prediction)
 # 分類演算法
 - Decision tree [教學影片](https://youtu.be/xY2BHb6-9PM)
   - 範例 [程式碼](./PhishingDetectorDecisionTree.md)  [教學影片](https://youtu.be/ZWqFjN1wzWQ)
