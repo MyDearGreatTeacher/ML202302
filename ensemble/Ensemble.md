@@ -1,8 +1,8 @@
 # 集成式學習（Ensemble Learning）
-- 非生成式演算法
+- 非生成式演算法(Non-Generative Methods)
   - 投票法（Voting）
   - 堆疊法（Stacking）
-- 生成式演算法
+- 生成式演算法(Generative Methods)
   - 自助聚合法（Bootstrap Aggregation）
   - 提升法（Boosting）
     - 適應提升（Adaptive Boosting, AdaBoost）
