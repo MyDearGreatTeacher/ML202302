@@ -24,6 +24,12 @@ learner_1 = neighbors.KNeighborsClassifier(n_neighbors=5)
 learner_2 = linear_model.Perceptron(tol=1e-2, random_state=0)
 learner_3 = svm.SVC(gamma=0.001)
 ```
+## 作業 ==> 看看結果如何?
+```
+learner_1 = neighbors.KNeighborsClassifier(n_neighbors=5)
+learner_2 = neighbors.KNeighborsClassifier(n_neighbors=3)
+learner_3 = neighbors.KNeighborsClassifier(n_neighbors=7)
+```
 ## 獨立訓練
 ```python
 # Split the train and test samples
