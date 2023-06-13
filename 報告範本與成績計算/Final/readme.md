@@ -14,7 +14,7 @@
   - 範例2:鐵達尼號資料集的決策樹模型[程式碼](./鐵達尼號資料集的決策樹模型.md)
 - Support veector machine[教學影片]()
   - 範例1: Support Vector Machine Classification breast cancer data set  乳癌(Breast cancer)預測的支持向量機模型
-    - [程式碼](../../ML/week3_機器學習1/Classification/Support_Vector_Machine_Classification.md)
+    - [程式碼](../../../ML/week3_機器學習1/Classification/Support_Vector_Machine_Classification.md)
 /Support_Vector_Machine_Classification.md)
   - 範例2: 鐵達尼號資料集的支持向量機模型 [程式碼](./鐵達尼號資料集的支持向量機模型.md)  [教學影片](https://www.youtube.com/watch?v=fqDdyxKwW6U)
 
