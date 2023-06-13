@@ -82,7 +82,7 @@ print('-'*30)
 print('Hard Voting:', accuracy_score(y_test, hard_predictions))
 ```
 # 使用 scikit-learn
--  sklearn.ensemble  VotingClassifier
+-  [sklearn.ensemble.VotingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
 
 ```PYTHON
 # Import the required libraries
