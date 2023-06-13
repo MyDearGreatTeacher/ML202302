@@ -174,7 +174,7 @@ learner_3.fit(x_train, y_train)
 
 # 
 # Predict the most probable class
-hard_predictions = voting.predict(x_test)
+Soft_predictions = voting.predict(x_test)
 
 #  
 # Get the base learner predictions
@@ -190,5 +190,5 @@ print('L3:', accuracy_score(y_test, predictions_3))
 
 # Accuracy of hard voting
 print('-'*30)
-print('Hard Voting:', accuracy_score(y_test, hard_predictions))
+print('Soft Voting:', accuracy_score(y_test, Soft_predictions))
 ```
